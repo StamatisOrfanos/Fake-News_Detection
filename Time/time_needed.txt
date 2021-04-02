@@ -1,0 +1,7 @@
+The time to process the data is: 173.23263216018677
+
+The time to make the Word2Vec embeddig and NN model is: 646.3286371231079
+
+The time to make 1000 predictions is: 3.355241298675537
+
+The time to make 1000 predictions is: 3.3589444160461426
